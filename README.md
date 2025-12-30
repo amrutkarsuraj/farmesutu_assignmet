@@ -35,3 +35,24 @@ A Flutter application that displays location-based weather, a 5-day forecast, an
 ```bash
 flutter pub get
 flutter run --dart-define=WEATHER_API_KEY=YOUR_OPENWEATHER_KEY
+
+
+---
+
+## Screenshots
+
+| Home Weather 
+  -screenshots/home_weather.png
+| City Search 
+  -screenshots/city_search.png
+| 5-Day Forecast 
+  -screenshots/forecast.png
+| Map with Weather Overlay 
+  -screenshots/map_weather_overlay.png
+
+
+## APK Download
+
+You can download and install the Android APK from GitHub Releases:
+
+https://github.com/amrutkarsuraj/farmesutu_assignmet/releases
